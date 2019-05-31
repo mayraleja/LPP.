@@ -1,0 +1,12 @@
+Real Lado, area
+
+INICIO
+
+escriba ("Digite u lado ")
+lea lado
+
+area <- lado * lado
+
+Escriba ("El area del cuadrado es: ") ,area
+
+FIN

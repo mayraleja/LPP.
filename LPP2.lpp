@@ -1,0 +1,19 @@
+Entero numero 1, numero 2
+
+INICIO
+
+escriba ("este es un programa para sumar ")
+
+Escriba ("digite numero 1 ")
+lea numero 1
+
+
+
+Escriba (" Digite numero 2 ")
+lea numero 2
+
+resultado= numero1+ numero2
+
+escriba ("su nresultado es:", resultado)
+
+FIN

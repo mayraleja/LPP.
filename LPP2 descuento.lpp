@@ -1,0 +1,28 @@
+Cadena [14] nombreproducto
+
+Real precio ,cantidad , total
+Inicio
+
+Escriba ("Nombre producto")
+
+Lea nombreProducto
+
+Escriba ("Cantidad comprada")
+Lea Cantidad
+
+Escriba ("Precio del producto")
+Lea Precio
+
+Si (cantidad>=10) entonces
+
+
+Total<-Precio*cantidad-(precio*cantidad*3/100)
+Sino 
+
+Total <-Cantidad*precio
+Escriba("no aplica descuento")
+Fin si
+Escriba ("el total de la compra es:$"), total
+
+Fin
+

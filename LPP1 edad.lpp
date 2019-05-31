@@ -1,0 +1,14 @@
+Entero edad
+
+Escriba ("cual es tu edad") 
+Lea Edad
+Si (Edad>18)entonces
+
+Escriba ("usted es mayor de edad")
+si no 
+
+Escriba ("usted es un menor de edad")
+
+Fin Si 
+
+Fin 
